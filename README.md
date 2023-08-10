@@ -15,4 +15,14 @@
 - https://dotnettutorials.net/lesson/introduction-to-programming-language-in-csharp/
     Explains Differnt Programming Language.
 - https://www.guvi.in/blog/what-is-platform-independence-java-net-write-once-run-anywhere/
-    Explains Platofrm dependent vs Platform independecy in context with .net    
+    Explains Platofrm dependent vs Platform independecy in context with .net
+
+## Whats is CLR architechture, MSIL and TYpes of JIT complier?
+
+- https://dotnettutorials.net/lesson/common-language-runtime-dotnet/
+    Explains CLR architecture
+- https://dotnettutorials.net/lesson/intermediate-language/
+    Explains IL code and ILDASM tool
+- https://www.c-sharpcorner.com/UploadFile/nipuntomar/jit-just-in-time-compiler/
+    Explains JIT and its types.
+  
