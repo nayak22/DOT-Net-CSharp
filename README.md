@@ -25,4 +25,15 @@
     Explains IL code and ILDASM tool
 - https://www.c-sharpcorner.com/UploadFile/nipuntomar/jit-just-in-time-compiler/
     Explains JIT and its types.
+
+## CLS, CTS CLI and FCL?
+
+- https://www.c-sharpcorner.com/UploadFile/f64127/What-is-cli-clr/
+    Explains What CLI is and its components.
+- https://dotnettutorials.net/lesson/common-type-system/
+    Explains CTS
+- https://dotnettutorials.net/lesson/common-language-specification/
+    Explais whst CLS
+- https://www.javatpoint.com/net-framework-class-library
+    Explains teh FCL and BCL and its architecture.
   
