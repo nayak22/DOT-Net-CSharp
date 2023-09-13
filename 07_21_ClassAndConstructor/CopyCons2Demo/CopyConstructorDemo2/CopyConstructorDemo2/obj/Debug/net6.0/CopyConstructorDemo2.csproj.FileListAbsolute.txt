@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\CopyCons2Demo\CopyConstructorDemo2\CopyConstructorDemo2\bin\Debug\net6.0\CopyConstructorDemo2.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\CopyCons2Demo\CopyConstructorDemo2\CopyConstructorDemo2\bin\Debug\net6.0\CopyConstructorDemo2.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\CopyCons2Demo\CopyConstructorDemo2\CopyConstructorDemo2\bin\Debug\net6.0\CopyConstructorDemo2.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\CopyCons2Demo\CopyConstructorDemo2\CopyConstructorDemo2\bin\Debug\net6.0\CopyConstructorDemo2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\CopyCons2Demo\CopyConstructorDemo2\CopyConstructorDemo2\bin\Debug\net6.0\CopyConstructorDemo2.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\CopyCons2Demo\CopyConstructorDemo2\CopyConstructorDemo2\obj\Debug\net6.0\CopyConstructorDemo2.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\CopyCons2Demo\CopyConstructorDemo2\CopyConstructorDemo2\obj\Debug\net6.0\CopyConstructorDemo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\CopyCons2Demo\CopyConstructorDemo2\CopyConstructorDemo2\obj\Debug\net6.0\CopyConstructorDemo2.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\CopyCons2Demo\CopyConstructorDemo2\CopyConstructorDemo2\obj\Debug\net6.0\CopyConstructorDemo2.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\CopyCons2Demo\CopyConstructorDemo2\CopyConstructorDemo2\obj\Debug\net6.0\CopyConstructorDemo2.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\CopyCons2Demo\CopyConstructorDemo2\CopyConstructorDemo2\obj\Debug\net6.0\CopyConstructorDemo2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\CopyCons2Demo\CopyConstructorDemo2\CopyConstructorDemo2\obj\Debug\net6.0\refint\CopyConstructorDemo2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\CopyCons2Demo\CopyConstructorDemo2\CopyConstructorDemo2\obj\Debug\net6.0\CopyConstructorDemo2.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\CopyCons2Demo\CopyConstructorDemo2\CopyConstructorDemo2\obj\Debug\net6.0\CopyConstructorDemo2.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\CopyCons2Demo\CopyConstructorDemo2\CopyConstructorDemo2\obj\Debug\net6.0\ref\CopyConstructorDemo2.dll

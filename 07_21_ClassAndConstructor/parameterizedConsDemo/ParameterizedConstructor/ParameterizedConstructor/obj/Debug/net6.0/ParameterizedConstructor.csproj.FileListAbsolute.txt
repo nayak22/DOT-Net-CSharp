@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\parameterizedConsDemo\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\net6.0\ParameterizedConstructor.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\parameterizedConsDemo\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\net6.0\ParameterizedConstructor.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\parameterizedConsDemo\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\net6.0\ParameterizedConstructor.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\parameterizedConsDemo\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\net6.0\ParameterizedConstructor.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\parameterizedConsDemo\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\net6.0\ParameterizedConstructor.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\parameterizedConsDemo\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\parameterizedConsDemo\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\parameterizedConsDemo\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\parameterizedConsDemo\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\parameterizedConsDemo\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\parameterizedConsDemo\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\parameterizedConsDemo\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\refint\ParameterizedConstructor.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\parameterizedConsDemo\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\parameterizedConsDemo\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_21_ClassAndConstructor\parameterizedConsDemo\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ref\ParameterizedConstructor.dll

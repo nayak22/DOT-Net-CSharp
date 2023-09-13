@@ -1,5 +1,7 @@
 ﻿using System;
 
+/* Code demonstrating the default constructors*/
+
 namespace DefaultConstructors
 {
     class Sum
@@ -10,6 +12,8 @@ namespace DefaultConstructors
 
         //creation of default constructor
 
+        //The constructor initializes two private integer variables x and y to 5 and 15 respectively.
+
         public Sum()
         {
             x = 5;
@@ -19,7 +23,7 @@ namespace DefaultConstructors
         public int getSum()
         {
             int sum=0;
-            sum = x + y;
+            sum = x + y; //This method calculates the sum of x and y and returns the result.
             return sum;
         }
         static void Main(string[] args)
