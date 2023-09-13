@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Ref Parameter Demo\RefKeywordDemo\RefKeywordDemo\bin\Debug\net6.0\RefKeywordDemo.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Ref Parameter Demo\RefKeywordDemo\RefKeywordDemo\bin\Debug\net6.0\RefKeywordDemo.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Ref Parameter Demo\RefKeywordDemo\RefKeywordDemo\bin\Debug\net6.0\RefKeywordDemo.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Ref Parameter Demo\RefKeywordDemo\RefKeywordDemo\bin\Debug\net6.0\RefKeywordDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Ref Parameter Demo\RefKeywordDemo\RefKeywordDemo\bin\Debug\net6.0\RefKeywordDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Ref Parameter Demo\RefKeywordDemo\RefKeywordDemo\obj\Debug\net6.0\RefKeywordDemo.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Ref Parameter Demo\RefKeywordDemo\RefKeywordDemo\obj\Debug\net6.0\RefKeywordDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Ref Parameter Demo\RefKeywordDemo\RefKeywordDemo\obj\Debug\net6.0\RefKeywordDemo.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Ref Parameter Demo\RefKeywordDemo\RefKeywordDemo\obj\Debug\net6.0\RefKeywordDemo.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Ref Parameter Demo\RefKeywordDemo\RefKeywordDemo\obj\Debug\net6.0\RefKeywordDemo.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Ref Parameter Demo\RefKeywordDemo\RefKeywordDemo\obj\Debug\net6.0\RefKeywordDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Ref Parameter Demo\RefKeywordDemo\RefKeywordDemo\obj\Debug\net6.0\refint\RefKeywordDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Ref Parameter Demo\RefKeywordDemo\RefKeywordDemo\obj\Debug\net6.0\RefKeywordDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Ref Parameter Demo\RefKeywordDemo\RefKeywordDemo\obj\Debug\net6.0\RefKeywordDemo.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Ref Parameter Demo\RefKeywordDemo\RefKeywordDemo\obj\Debug\net6.0\ref\RefKeywordDemo.dll

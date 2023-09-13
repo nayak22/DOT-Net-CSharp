@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Params Keyword Demo\ParamsKeywordDemo\ParamsKeywordDemo\bin\Debug\net6.0\ParamsKeywordDemo.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Params Keyword Demo\ParamsKeywordDemo\ParamsKeywordDemo\bin\Debug\net6.0\ParamsKeywordDemo.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Params Keyword Demo\ParamsKeywordDemo\ParamsKeywordDemo\bin\Debug\net6.0\ParamsKeywordDemo.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Params Keyword Demo\ParamsKeywordDemo\ParamsKeywordDemo\bin\Debug\net6.0\ParamsKeywordDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Params Keyword Demo\ParamsKeywordDemo\ParamsKeywordDemo\bin\Debug\net6.0\ParamsKeywordDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Params Keyword Demo\ParamsKeywordDemo\ParamsKeywordDemo\obj\Debug\net6.0\ParamsKeywordDemo.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Params Keyword Demo\ParamsKeywordDemo\ParamsKeywordDemo\obj\Debug\net6.0\ParamsKeywordDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Params Keyword Demo\ParamsKeywordDemo\ParamsKeywordDemo\obj\Debug\net6.0\ParamsKeywordDemo.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Params Keyword Demo\ParamsKeywordDemo\ParamsKeywordDemo\obj\Debug\net6.0\ParamsKeywordDemo.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Params Keyword Demo\ParamsKeywordDemo\ParamsKeywordDemo\obj\Debug\net6.0\ParamsKeywordDemo.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Params Keyword Demo\ParamsKeywordDemo\ParamsKeywordDemo\obj\Debug\net6.0\ParamsKeywordDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Params Keyword Demo\ParamsKeywordDemo\ParamsKeywordDemo\obj\Debug\net6.0\refint\ParamsKeywordDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Params Keyword Demo\ParamsKeywordDemo\ParamsKeywordDemo\obj\Debug\net6.0\ParamsKeywordDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Params Keyword Demo\ParamsKeywordDemo\ParamsKeywordDemo\obj\Debug\net6.0\ParamsKeywordDemo.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Params Keyword Demo\ParamsKeywordDemo\ParamsKeywordDemo\obj\Debug\net6.0\ref\ParamsKeywordDemo.dll

@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\In Parameter demo\InParaDemo\InParaDemo\bin\Debug\net6.0\InParaDemo.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\In Parameter demo\InParaDemo\InParaDemo\bin\Debug\net6.0\InParaDemo.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\In Parameter demo\InParaDemo\InParaDemo\bin\Debug\net6.0\InParaDemo.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\In Parameter demo\InParaDemo\InParaDemo\bin\Debug\net6.0\InParaDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\In Parameter demo\InParaDemo\InParaDemo\bin\Debug\net6.0\InParaDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\In Parameter demo\InParaDemo\InParaDemo\obj\Debug\net6.0\InParaDemo.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\In Parameter demo\InParaDemo\InParaDemo\obj\Debug\net6.0\InParaDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\In Parameter demo\InParaDemo\InParaDemo\obj\Debug\net6.0\InParaDemo.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\In Parameter demo\InParaDemo\InParaDemo\obj\Debug\net6.0\InParaDemo.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\In Parameter demo\InParaDemo\InParaDemo\obj\Debug\net6.0\InParaDemo.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\In Parameter demo\InParaDemo\InParaDemo\obj\Debug\net6.0\InParaDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\In Parameter demo\InParaDemo\InParaDemo\obj\Debug\net6.0\refint\InParaDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\In Parameter demo\InParaDemo\InParaDemo\obj\Debug\net6.0\InParaDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\In Parameter demo\InParaDemo\InParaDemo\obj\Debug\net6.0\InParaDemo.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\In Parameter demo\InParaDemo\InParaDemo\obj\Debug\net6.0\ref\InParaDemo.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ParamsKeywordDemo/1.0.0": {
+        "runtime": {
+          "ParamsKeywordDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParamsKeywordDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

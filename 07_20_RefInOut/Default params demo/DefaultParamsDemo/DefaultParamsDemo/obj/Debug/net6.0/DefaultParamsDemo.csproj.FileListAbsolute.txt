@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Default params demo\DefaultParamsDemo\DefaultParamsDemo\bin\Debug\net6.0\DefaultParamsDemo.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Default params demo\DefaultParamsDemo\DefaultParamsDemo\bin\Debug\net6.0\DefaultParamsDemo.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Default params demo\DefaultParamsDemo\DefaultParamsDemo\bin\Debug\net6.0\DefaultParamsDemo.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Default params demo\DefaultParamsDemo\DefaultParamsDemo\bin\Debug\net6.0\DefaultParamsDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Default params demo\DefaultParamsDemo\DefaultParamsDemo\bin\Debug\net6.0\DefaultParamsDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Default params demo\DefaultParamsDemo\DefaultParamsDemo\obj\Debug\net6.0\DefaultParamsDemo.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Default params demo\DefaultParamsDemo\DefaultParamsDemo\obj\Debug\net6.0\DefaultParamsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Default params demo\DefaultParamsDemo\DefaultParamsDemo\obj\Debug\net6.0\DefaultParamsDemo.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Default params demo\DefaultParamsDemo\DefaultParamsDemo\obj\Debug\net6.0\DefaultParamsDemo.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Default params demo\DefaultParamsDemo\DefaultParamsDemo\obj\Debug\net6.0\DefaultParamsDemo.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Default params demo\DefaultParamsDemo\DefaultParamsDemo\obj\Debug\net6.0\DefaultParamsDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Default params demo\DefaultParamsDemo\DefaultParamsDemo\obj\Debug\net6.0\refint\DefaultParamsDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Default params demo\DefaultParamsDemo\DefaultParamsDemo\obj\Debug\net6.0\DefaultParamsDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Default params demo\DefaultParamsDemo\DefaultParamsDemo\obj\Debug\net6.0\DefaultParamsDemo.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_20_RefInOut\Default params demo\DefaultParamsDemo\DefaultParamsDemo\obj\Debug\net6.0\ref\DefaultParamsDemo.dll
