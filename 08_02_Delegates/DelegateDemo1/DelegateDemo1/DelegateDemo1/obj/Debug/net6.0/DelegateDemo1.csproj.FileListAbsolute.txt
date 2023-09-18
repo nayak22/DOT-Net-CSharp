@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelegateDemo1\DelegateDemo1\DelegateDemo1\bin\Debug\net6.0\DelegateDemo1.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelegateDemo1\DelegateDemo1\DelegateDemo1\bin\Debug\net6.0\DelegateDemo1.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelegateDemo1\DelegateDemo1\DelegateDemo1\bin\Debug\net6.0\DelegateDemo1.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelegateDemo1\DelegateDemo1\DelegateDemo1\bin\Debug\net6.0\DelegateDemo1.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelegateDemo1\DelegateDemo1\DelegateDemo1\bin\Debug\net6.0\DelegateDemo1.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelegateDemo1\DelegateDemo1\DelegateDemo1\obj\Debug\net6.0\DelegateDemo1.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelegateDemo1\DelegateDemo1\DelegateDemo1\obj\Debug\net6.0\DelegateDemo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelegateDemo1\DelegateDemo1\DelegateDemo1\obj\Debug\net6.0\DelegateDemo1.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelegateDemo1\DelegateDemo1\DelegateDemo1\obj\Debug\net6.0\DelegateDemo1.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelegateDemo1\DelegateDemo1\DelegateDemo1\obj\Debug\net6.0\DelegateDemo1.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelegateDemo1\DelegateDemo1\DelegateDemo1\obj\Debug\net6.0\DelegateDemo1.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelegateDemo1\DelegateDemo1\DelegateDemo1\obj\Debug\net6.0\refint\DelegateDemo1.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelegateDemo1\DelegateDemo1\DelegateDemo1\obj\Debug\net6.0\DelegateDemo1.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelegateDemo1\DelegateDemo1\DelegateDemo1\obj\Debug\net6.0\DelegateDemo1.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelegateDemo1\DelegateDemo1\DelegateDemo1\obj\Debug\net6.0\ref\DelegateDemo1.dll

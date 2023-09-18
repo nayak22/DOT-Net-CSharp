@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\07_29_ObjectIntializers\ObjectIntializerDemo\ObjectIntializerDemo\ObjectIntializerDemo\obj\Debug\net6.0\ObjectIntializerDemo.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_29_ObjectIntializers\ObjectIntializerDemo\ObjectIntializerDemo\ObjectIntializerDemo\obj\Debug\net6.0\ObjectIntializerDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\07_29_ObjectIntializers\ObjectIntializerDemo\ObjectIntializerDemo\ObjectIntializerDemo\obj\Debug\net6.0\ObjectIntializerDemo.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_29_ObjectIntializers\ObjectIntializerDemo\ObjectIntializerDemo\ObjectIntializerDemo\obj\Debug\net6.0\ObjectIntializerDemo.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\07_29_ObjectIntializers\ObjectIntializerDemo\ObjectIntializerDemo\ObjectIntializerDemo\obj\Debug\net6.0\ObjectIntializerDemo.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_29_ObjectIntializers\ObjectIntializerDemo\ObjectIntializerDemo\ObjectIntializerDemo\bin\Debug\net6.0\ObjectIntializerDemo.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\07_29_ObjectIntializers\ObjectIntializerDemo\ObjectIntializerDemo\ObjectIntializerDemo\bin\Debug\net6.0\ObjectIntializerDemo.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_29_ObjectIntializers\ObjectIntializerDemo\ObjectIntializerDemo\ObjectIntializerDemo\bin\Debug\net6.0\ObjectIntializerDemo.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_29_ObjectIntializers\ObjectIntializerDemo\ObjectIntializerDemo\ObjectIntializerDemo\bin\Debug\net6.0\ObjectIntializerDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_29_ObjectIntializers\ObjectIntializerDemo\ObjectIntializerDemo\ObjectIntializerDemo\bin\Debug\net6.0\ObjectIntializerDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_29_ObjectIntializers\ObjectIntializerDemo\ObjectIntializerDemo\ObjectIntializerDemo\obj\Debug\net6.0\ObjectIntializerDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_29_ObjectIntializers\ObjectIntializerDemo\ObjectIntializerDemo\ObjectIntializerDemo\obj\Debug\net6.0\refint\ObjectIntializerDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_29_ObjectIntializers\ObjectIntializerDemo\ObjectIntializerDemo\ObjectIntializerDemo\obj\Debug\net6.0\ObjectIntializerDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_29_ObjectIntializers\ObjectIntializerDemo\ObjectIntializerDemo\ObjectIntializerDemo\obj\Debug\net6.0\ObjectIntializerDemo.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_29_ObjectIntializers\ObjectIntializerDemo\ObjectIntializerDemo\ObjectIntializerDemo\obj\Debug\net6.0\ref\ObjectIntializerDemo.dll

@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructConstructorDemo\StructConstructorDemo\StructConstructorDemo\bin\Debug\net6.0\StructConstructorDemo.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructConstructorDemo\StructConstructorDemo\StructConstructorDemo\bin\Debug\net6.0\StructConstructorDemo.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructConstructorDemo\StructConstructorDemo\StructConstructorDemo\bin\Debug\net6.0\StructConstructorDemo.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructConstructorDemo\StructConstructorDemo\StructConstructorDemo\bin\Debug\net6.0\StructConstructorDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructConstructorDemo\StructConstructorDemo\StructConstructorDemo\bin\Debug\net6.0\StructConstructorDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructConstructorDemo\StructConstructorDemo\StructConstructorDemo\obj\Debug\net6.0\StructConstructorDemo.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructConstructorDemo\StructConstructorDemo\StructConstructorDemo\obj\Debug\net6.0\StructConstructorDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructConstructorDemo\StructConstructorDemo\StructConstructorDemo\obj\Debug\net6.0\StructConstructorDemo.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructConstructorDemo\StructConstructorDemo\StructConstructorDemo\obj\Debug\net6.0\StructConstructorDemo.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructConstructorDemo\StructConstructorDemo\StructConstructorDemo\obj\Debug\net6.0\StructConstructorDemo.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructConstructorDemo\StructConstructorDemo\StructConstructorDemo\obj\Debug\net6.0\StructConstructorDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructConstructorDemo\StructConstructorDemo\StructConstructorDemo\obj\Debug\net6.0\refint\StructConstructorDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructConstructorDemo\StructConstructorDemo\StructConstructorDemo\obj\Debug\net6.0\StructConstructorDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructConstructorDemo\StructConstructorDemo\StructConstructorDemo\obj\Debug\net6.0\StructConstructorDemo.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructConstructorDemo\StructConstructorDemo\StructConstructorDemo\obj\Debug\net6.0\ref\StructConstructorDemo.dll

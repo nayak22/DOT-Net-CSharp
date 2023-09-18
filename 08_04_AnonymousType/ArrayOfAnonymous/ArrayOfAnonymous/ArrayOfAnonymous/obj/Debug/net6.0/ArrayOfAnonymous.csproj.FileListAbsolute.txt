@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\ArrayOfAnonymous\ArrayOfAnonymous\ArrayOfAnonymous\bin\Debug\net6.0\ArrayOfAnonymous.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\ArrayOfAnonymous\ArrayOfAnonymous\ArrayOfAnonymous\bin\Debug\net6.0\ArrayOfAnonymous.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\ArrayOfAnonymous\ArrayOfAnonymous\ArrayOfAnonymous\bin\Debug\net6.0\ArrayOfAnonymous.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\ArrayOfAnonymous\ArrayOfAnonymous\ArrayOfAnonymous\bin\Debug\net6.0\ArrayOfAnonymous.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\ArrayOfAnonymous\ArrayOfAnonymous\ArrayOfAnonymous\bin\Debug\net6.0\ArrayOfAnonymous.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\ArrayOfAnonymous\ArrayOfAnonymous\ArrayOfAnonymous\obj\Debug\net6.0\ArrayOfAnonymous.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\ArrayOfAnonymous\ArrayOfAnonymous\ArrayOfAnonymous\obj\Debug\net6.0\ArrayOfAnonymous.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\ArrayOfAnonymous\ArrayOfAnonymous\ArrayOfAnonymous\obj\Debug\net6.0\ArrayOfAnonymous.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\ArrayOfAnonymous\ArrayOfAnonymous\ArrayOfAnonymous\obj\Debug\net6.0\ArrayOfAnonymous.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\ArrayOfAnonymous\ArrayOfAnonymous\ArrayOfAnonymous\obj\Debug\net6.0\ArrayOfAnonymous.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\ArrayOfAnonymous\ArrayOfAnonymous\ArrayOfAnonymous\obj\Debug\net6.0\ArrayOfAnonymous.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\ArrayOfAnonymous\ArrayOfAnonymous\ArrayOfAnonymous\obj\Debug\net6.0\refint\ArrayOfAnonymous.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\ArrayOfAnonymous\ArrayOfAnonymous\ArrayOfAnonymous\obj\Debug\net6.0\ArrayOfAnonymous.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\ArrayOfAnonymous\ArrayOfAnonymous\ArrayOfAnonymous\obj\Debug\net6.0\ArrayOfAnonymous.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\ArrayOfAnonymous\ArrayOfAnonymous\ArrayOfAnonymous\obj\Debug\net6.0\ref\ArrayOfAnonymous.dll

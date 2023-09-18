@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\03_PositiveNegativeNumber\03_PositiveNegativeNumber\bin\Debug\net6.0\03_PositiveNegativeNumber.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\03_PositiveNegativeNumber\03_PositiveNegativeNumber\bin\Debug\net6.0\03_PositiveNegativeNumber.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\03_PositiveNegativeNumber\03_PositiveNegativeNumber\bin\Debug\net6.0\03_PositiveNegativeNumber.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\03_PositiveNegativeNumber\03_PositiveNegativeNumber\bin\Debug\net6.0\03_PositiveNegativeNumber.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\03_PositiveNegativeNumber\03_PositiveNegativeNumber\bin\Debug\net6.0\03_PositiveNegativeNumber.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\03_PositiveNegativeNumber\03_PositiveNegativeNumber\obj\Debug\net6.0\03_PositiveNegativeNumber.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\03_PositiveNegativeNumber\03_PositiveNegativeNumber\obj\Debug\net6.0\03_PositiveNegativeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\03_PositiveNegativeNumber\03_PositiveNegativeNumber\obj\Debug\net6.0\03_PositiveNegativeNumber.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\03_PositiveNegativeNumber\03_PositiveNegativeNumber\obj\Debug\net6.0\03_PositiveNegativeNumber.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\03_PositiveNegativeNumber\03_PositiveNegativeNumber\obj\Debug\net6.0\03_PositiveNegativeNumber.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\03_PositiveNegativeNumber\03_PositiveNegativeNumber\obj\Debug\net6.0\03_PositiveNegativeNumber.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\03_PositiveNegativeNumber\03_PositiveNegativeNumber\obj\Debug\net6.0\refint\03_PositiveNegativeNumber.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\03_PositiveNegativeNumber\03_PositiveNegativeNumber\obj\Debug\net6.0\03_PositiveNegativeNumber.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\03_PositiveNegativeNumber\03_PositiveNegativeNumber\obj\Debug\net6.0\03_PositiveNegativeNumber.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\03_PositiveNegativeNumber\03_PositiveNegativeNumber\obj\Debug\net6.0\ref\03_PositiveNegativeNumber.dll

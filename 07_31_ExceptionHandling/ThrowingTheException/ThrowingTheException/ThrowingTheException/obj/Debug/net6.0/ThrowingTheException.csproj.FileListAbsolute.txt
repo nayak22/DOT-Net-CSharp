@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ThrowingTheException\ThrowingTheException\ThrowingTheException\bin\Debug\net6.0\ThrowingTheException.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ThrowingTheException\ThrowingTheException\ThrowingTheException\bin\Debug\net6.0\ThrowingTheException.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ThrowingTheException\ThrowingTheException\ThrowingTheException\bin\Debug\net6.0\ThrowingTheException.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ThrowingTheException\ThrowingTheException\ThrowingTheException\bin\Debug\net6.0\ThrowingTheException.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ThrowingTheException\ThrowingTheException\ThrowingTheException\bin\Debug\net6.0\ThrowingTheException.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ThrowingTheException\ThrowingTheException\ThrowingTheException\obj\Debug\net6.0\ThrowingTheException.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ThrowingTheException\ThrowingTheException\ThrowingTheException\obj\Debug\net6.0\ThrowingTheException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ThrowingTheException\ThrowingTheException\ThrowingTheException\obj\Debug\net6.0\ThrowingTheException.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ThrowingTheException\ThrowingTheException\ThrowingTheException\obj\Debug\net6.0\ThrowingTheException.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ThrowingTheException\ThrowingTheException\ThrowingTheException\obj\Debug\net6.0\ThrowingTheException.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ThrowingTheException\ThrowingTheException\ThrowingTheException\obj\Debug\net6.0\ThrowingTheException.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ThrowingTheException\ThrowingTheException\ThrowingTheException\obj\Debug\net6.0\refint\ThrowingTheException.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ThrowingTheException\ThrowingTheException\ThrowingTheException\obj\Debug\net6.0\ThrowingTheException.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ThrowingTheException\ThrowingTheException\ThrowingTheException\obj\Debug\net6.0\ThrowingTheException.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ThrowingTheException\ThrowingTheException\ThrowingTheException\obj\Debug\net6.0\ref\ThrowingTheException.dll

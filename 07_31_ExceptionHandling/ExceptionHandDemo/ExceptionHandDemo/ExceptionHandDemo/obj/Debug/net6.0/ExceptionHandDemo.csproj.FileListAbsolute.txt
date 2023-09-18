@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ExceptionHandDemo\ExceptionHandDemo\ExceptionHandDemo\bin\Debug\net6.0\ExceptionHandDemo.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ExceptionHandDemo\ExceptionHandDemo\ExceptionHandDemo\bin\Debug\net6.0\ExceptionHandDemo.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ExceptionHandDemo\ExceptionHandDemo\ExceptionHandDemo\bin\Debug\net6.0\ExceptionHandDemo.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ExceptionHandDemo\ExceptionHandDemo\ExceptionHandDemo\bin\Debug\net6.0\ExceptionHandDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ExceptionHandDemo\ExceptionHandDemo\ExceptionHandDemo\bin\Debug\net6.0\ExceptionHandDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ExceptionHandDemo\ExceptionHandDemo\ExceptionHandDemo\obj\Debug\net6.0\ExceptionHandDemo.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ExceptionHandDemo\ExceptionHandDemo\ExceptionHandDemo\obj\Debug\net6.0\ExceptionHandDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ExceptionHandDemo\ExceptionHandDemo\ExceptionHandDemo\obj\Debug\net6.0\ExceptionHandDemo.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ExceptionHandDemo\ExceptionHandDemo\ExceptionHandDemo\obj\Debug\net6.0\ExceptionHandDemo.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ExceptionHandDemo\ExceptionHandDemo\ExceptionHandDemo\obj\Debug\net6.0\ExceptionHandDemo.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ExceptionHandDemo\ExceptionHandDemo\ExceptionHandDemo\obj\Debug\net6.0\ExceptionHandDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ExceptionHandDemo\ExceptionHandDemo\ExceptionHandDemo\obj\Debug\net6.0\refint\ExceptionHandDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ExceptionHandDemo\ExceptionHandDemo\ExceptionHandDemo\obj\Debug\net6.0\ExceptionHandDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ExceptionHandDemo\ExceptionHandDemo\ExceptionHandDemo\obj\Debug\net6.0\ExceptionHandDemo.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\ExceptionHandDemo\ExceptionHandDemo\ExceptionHandDemo\obj\Debug\net6.0\ref\ExceptionHandDemo.dll

@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\AnonymousTypeDemo\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\net6.0\AnonymousTypeDemo.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\AnonymousTypeDemo\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\net6.0\AnonymousTypeDemo.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\AnonymousTypeDemo\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\net6.0\AnonymousTypeDemo.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\AnonymousTypeDemo\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\net6.0\AnonymousTypeDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\AnonymousTypeDemo\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\net6.0\AnonymousTypeDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\AnonymousTypeDemo\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net6.0\AnonymousTypeDemo.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\AnonymousTypeDemo\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net6.0\AnonymousTypeDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\AnonymousTypeDemo\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net6.0\AnonymousTypeDemo.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\AnonymousTypeDemo\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net6.0\AnonymousTypeDemo.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\AnonymousTypeDemo\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net6.0\AnonymousTypeDemo.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\AnonymousTypeDemo\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net6.0\AnonymousTypeDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\AnonymousTypeDemo\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net6.0\refint\AnonymousTypeDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\AnonymousTypeDemo\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net6.0\AnonymousTypeDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\AnonymousTypeDemo\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net6.0\AnonymousTypeDemo.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_04_AnonymousType\AnonymousTypeDemo\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net6.0\ref\AnonymousTypeDemo.dll

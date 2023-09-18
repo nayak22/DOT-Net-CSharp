@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\MulticastDeligate\MulticastDeligate\MulticastDeligate\bin\Debug\net6.0\MulticastDeligate.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\MulticastDeligate\MulticastDeligate\MulticastDeligate\bin\Debug\net6.0\MulticastDeligate.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\MulticastDeligate\MulticastDeligate\MulticastDeligate\bin\Debug\net6.0\MulticastDeligate.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\MulticastDeligate\MulticastDeligate\MulticastDeligate\bin\Debug\net6.0\MulticastDeligate.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\MulticastDeligate\MulticastDeligate\MulticastDeligate\bin\Debug\net6.0\MulticastDeligate.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\MulticastDeligate\MulticastDeligate\MulticastDeligate\obj\Debug\net6.0\MulticastDeligate.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\MulticastDeligate\MulticastDeligate\MulticastDeligate\obj\Debug\net6.0\MulticastDeligate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\MulticastDeligate\MulticastDeligate\MulticastDeligate\obj\Debug\net6.0\MulticastDeligate.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\MulticastDeligate\MulticastDeligate\MulticastDeligate\obj\Debug\net6.0\MulticastDeligate.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\MulticastDeligate\MulticastDeligate\MulticastDeligate\obj\Debug\net6.0\MulticastDeligate.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\MulticastDeligate\MulticastDeligate\MulticastDeligate\obj\Debug\net6.0\MulticastDeligate.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\MulticastDeligate\MulticastDeligate\MulticastDeligate\obj\Debug\net6.0\refint\MulticastDeligate.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\MulticastDeligate\MulticastDeligate\MulticastDeligate\obj\Debug\net6.0\MulticastDeligate.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\MulticastDeligate\MulticastDeligate\MulticastDeligate\obj\Debug\net6.0\MulticastDeligate.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\MulticastDeligate\MulticastDeligate\MulticastDeligate\obj\Debug\net6.0\ref\MulticastDeligate.dll

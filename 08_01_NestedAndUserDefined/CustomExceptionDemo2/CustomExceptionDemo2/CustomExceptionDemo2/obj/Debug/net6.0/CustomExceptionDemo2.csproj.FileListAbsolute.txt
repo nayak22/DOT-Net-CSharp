@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\CustomExceptionDemo2\CustomExceptionDemo2\CustomExceptionDemo2\bin\Debug\net6.0\CustomExceptionDemo2.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\CustomExceptionDemo2\CustomExceptionDemo2\CustomExceptionDemo2\bin\Debug\net6.0\CustomExceptionDemo2.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\CustomExceptionDemo2\CustomExceptionDemo2\CustomExceptionDemo2\bin\Debug\net6.0\CustomExceptionDemo2.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\CustomExceptionDemo2\CustomExceptionDemo2\CustomExceptionDemo2\bin\Debug\net6.0\CustomExceptionDemo2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\CustomExceptionDemo2\CustomExceptionDemo2\CustomExceptionDemo2\bin\Debug\net6.0\CustomExceptionDemo2.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\CustomExceptionDemo2\CustomExceptionDemo2\CustomExceptionDemo2\obj\Debug\net6.0\CustomExceptionDemo2.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\CustomExceptionDemo2\CustomExceptionDemo2\CustomExceptionDemo2\obj\Debug\net6.0\CustomExceptionDemo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\CustomExceptionDemo2\CustomExceptionDemo2\CustomExceptionDemo2\obj\Debug\net6.0\CustomExceptionDemo2.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\CustomExceptionDemo2\CustomExceptionDemo2\CustomExceptionDemo2\obj\Debug\net6.0\CustomExceptionDemo2.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\CustomExceptionDemo2\CustomExceptionDemo2\CustomExceptionDemo2\obj\Debug\net6.0\CustomExceptionDemo2.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\CustomExceptionDemo2\CustomExceptionDemo2\CustomExceptionDemo2\obj\Debug\net6.0\CustomExceptionDemo2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\CustomExceptionDemo2\CustomExceptionDemo2\CustomExceptionDemo2\obj\Debug\net6.0\refint\CustomExceptionDemo2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\CustomExceptionDemo2\CustomExceptionDemo2\CustomExceptionDemo2\obj\Debug\net6.0\CustomExceptionDemo2.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\CustomExceptionDemo2\CustomExceptionDemo2\CustomExceptionDemo2\obj\Debug\net6.0\CustomExceptionDemo2.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\CustomExceptionDemo2\CustomExceptionDemo2\CustomExceptionDemo2\obj\Debug\net6.0\ref\CustomExceptionDemo2.dll

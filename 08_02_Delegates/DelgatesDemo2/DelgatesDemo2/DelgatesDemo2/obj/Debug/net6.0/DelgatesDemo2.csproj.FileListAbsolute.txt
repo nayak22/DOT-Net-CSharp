@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelgatesDemo2\DelgatesDemo2\DelgatesDemo2\bin\Debug\net6.0\DelgatesDemo2.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelgatesDemo2\DelgatesDemo2\DelgatesDemo2\bin\Debug\net6.0\DelgatesDemo2.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelgatesDemo2\DelgatesDemo2\DelgatesDemo2\bin\Debug\net6.0\DelgatesDemo2.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelgatesDemo2\DelgatesDemo2\DelgatesDemo2\bin\Debug\net6.0\DelgatesDemo2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelgatesDemo2\DelgatesDemo2\DelgatesDemo2\bin\Debug\net6.0\DelgatesDemo2.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelgatesDemo2\DelgatesDemo2\DelgatesDemo2\obj\Debug\net6.0\DelgatesDemo2.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelgatesDemo2\DelgatesDemo2\DelgatesDemo2\obj\Debug\net6.0\DelgatesDemo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelgatesDemo2\DelgatesDemo2\DelgatesDemo2\obj\Debug\net6.0\DelgatesDemo2.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelgatesDemo2\DelgatesDemo2\DelgatesDemo2\obj\Debug\net6.0\DelgatesDemo2.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelgatesDemo2\DelgatesDemo2\DelgatesDemo2\obj\Debug\net6.0\DelgatesDemo2.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelgatesDemo2\DelgatesDemo2\DelgatesDemo2\obj\Debug\net6.0\DelgatesDemo2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelgatesDemo2\DelgatesDemo2\DelgatesDemo2\obj\Debug\net6.0\refint\DelgatesDemo2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelgatesDemo2\DelgatesDemo2\DelgatesDemo2\obj\Debug\net6.0\DelgatesDemo2.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelgatesDemo2\DelgatesDemo2\DelgatesDemo2\obj\Debug\net6.0\DelgatesDemo2.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_02_Delegates\DelgatesDemo2\DelgatesDemo2\DelgatesDemo2\obj\Debug\net6.0\ref\DelgatesDemo2.dll

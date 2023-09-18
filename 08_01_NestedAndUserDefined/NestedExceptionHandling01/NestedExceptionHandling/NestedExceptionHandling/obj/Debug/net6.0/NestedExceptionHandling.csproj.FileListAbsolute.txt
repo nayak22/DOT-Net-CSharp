@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\NestedExceptionHandling01\NestedExceptionHandling\NestedExceptionHandling\bin\Debug\net6.0\NestedExceptionHandling.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\NestedExceptionHandling01\NestedExceptionHandling\NestedExceptionHandling\bin\Debug\net6.0\NestedExceptionHandling.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\NestedExceptionHandling01\NestedExceptionHandling\NestedExceptionHandling\bin\Debug\net6.0\NestedExceptionHandling.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\NestedExceptionHandling01\NestedExceptionHandling\NestedExceptionHandling\bin\Debug\net6.0\NestedExceptionHandling.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\NestedExceptionHandling01\NestedExceptionHandling\NestedExceptionHandling\bin\Debug\net6.0\NestedExceptionHandling.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\NestedExceptionHandling01\NestedExceptionHandling\NestedExceptionHandling\obj\Debug\net6.0\NestedExceptionHandling.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\NestedExceptionHandling01\NestedExceptionHandling\NestedExceptionHandling\obj\Debug\net6.0\NestedExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\NestedExceptionHandling01\NestedExceptionHandling\NestedExceptionHandling\obj\Debug\net6.0\NestedExceptionHandling.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\NestedExceptionHandling01\NestedExceptionHandling\NestedExceptionHandling\obj\Debug\net6.0\NestedExceptionHandling.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\NestedExceptionHandling01\NestedExceptionHandling\NestedExceptionHandling\obj\Debug\net6.0\NestedExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\NestedExceptionHandling01\NestedExceptionHandling\NestedExceptionHandling\obj\Debug\net6.0\NestedExceptionHandling.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\NestedExceptionHandling01\NestedExceptionHandling\NestedExceptionHandling\obj\Debug\net6.0\refint\NestedExceptionHandling.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\NestedExceptionHandling01\NestedExceptionHandling\NestedExceptionHandling\obj\Debug\net6.0\NestedExceptionHandling.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\NestedExceptionHandling01\NestedExceptionHandling\NestedExceptionHandling\obj\Debug\net6.0\NestedExceptionHandling.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\NestedExceptionHandling01\NestedExceptionHandling\NestedExceptionHandling\obj\Debug\net6.0\ref\NestedExceptionHandling.dll

@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\01_OddEvenCheck\01_OddEvenCheck\bin\Debug\net6.0\01_OddEvenCheck.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\01_OddEvenCheck\01_OddEvenCheck\bin\Debug\net6.0\01_OddEvenCheck.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\01_OddEvenCheck\01_OddEvenCheck\bin\Debug\net6.0\01_OddEvenCheck.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\01_OddEvenCheck\01_OddEvenCheck\bin\Debug\net6.0\01_OddEvenCheck.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\01_OddEvenCheck\01_OddEvenCheck\bin\Debug\net6.0\01_OddEvenCheck.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\01_OddEvenCheck\01_OddEvenCheck\obj\Debug\net6.0\01_OddEvenCheck.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\01_OddEvenCheck\01_OddEvenCheck\obj\Debug\net6.0\01_OddEvenCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\01_OddEvenCheck\01_OddEvenCheck\obj\Debug\net6.0\01_OddEvenCheck.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\01_OddEvenCheck\01_OddEvenCheck\obj\Debug\net6.0\01_OddEvenCheck.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\01_OddEvenCheck\01_OddEvenCheck\obj\Debug\net6.0\01_OddEvenCheck.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\01_OddEvenCheck\01_OddEvenCheck\obj\Debug\net6.0\01_OddEvenCheck.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\01_OddEvenCheck\01_OddEvenCheck\obj\Debug\net6.0\refint\01_OddEvenCheck.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\01_OddEvenCheck\01_OddEvenCheck\obj\Debug\net6.0\01_OddEvenCheck.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\01_OddEvenCheck\01_OddEvenCheck\obj\Debug\net6.0\01_OddEvenCheck.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\01_OddEvenCheck\01_OddEvenCheck\obj\Debug\net6.0\ref\01_OddEvenCheck.dll

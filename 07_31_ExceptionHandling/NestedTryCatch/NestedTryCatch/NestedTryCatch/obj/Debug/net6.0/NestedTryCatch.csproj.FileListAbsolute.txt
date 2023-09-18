@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\NestedTryCatch\NestedTryCatch\NestedTryCatch\bin\Debug\net6.0\NestedTryCatch.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\NestedTryCatch\NestedTryCatch\NestedTryCatch\bin\Debug\net6.0\NestedTryCatch.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\NestedTryCatch\NestedTryCatch\NestedTryCatch\bin\Debug\net6.0\NestedTryCatch.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\NestedTryCatch\NestedTryCatch\NestedTryCatch\bin\Debug\net6.0\NestedTryCatch.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\NestedTryCatch\NestedTryCatch\NestedTryCatch\bin\Debug\net6.0\NestedTryCatch.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\NestedTryCatch\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\NestedTryCatch.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\NestedTryCatch\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\NestedTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\NestedTryCatch\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\NestedTryCatch.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\NestedTryCatch\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\NestedTryCatch.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\NestedTryCatch\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\NestedTryCatch.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\NestedTryCatch\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\NestedTryCatch.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\NestedTryCatch\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\refint\NestedTryCatch.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\NestedTryCatch\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\NestedTryCatch.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\NestedTryCatch\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\NestedTryCatch.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\NestedTryCatch\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\ref\NestedTryCatch.dll

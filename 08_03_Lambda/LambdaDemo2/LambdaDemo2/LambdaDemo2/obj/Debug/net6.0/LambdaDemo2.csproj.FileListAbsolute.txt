@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\08_03_Lambda\LambdaDemo2\LambdaDemo2\LambdaDemo2\bin\Debug\net6.0\LambdaDemo2.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\08_03_Lambda\LambdaDemo2\LambdaDemo2\LambdaDemo2\bin\Debug\net6.0\LambdaDemo2.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_03_Lambda\LambdaDemo2\LambdaDemo2\LambdaDemo2\bin\Debug\net6.0\LambdaDemo2.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_03_Lambda\LambdaDemo2\LambdaDemo2\LambdaDemo2\bin\Debug\net6.0\LambdaDemo2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_03_Lambda\LambdaDemo2\LambdaDemo2\LambdaDemo2\bin\Debug\net6.0\LambdaDemo2.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_03_Lambda\LambdaDemo2\LambdaDemo2\LambdaDemo2\obj\Debug\net6.0\LambdaDemo2.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_03_Lambda\LambdaDemo2\LambdaDemo2\LambdaDemo2\obj\Debug\net6.0\LambdaDemo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\08_03_Lambda\LambdaDemo2\LambdaDemo2\LambdaDemo2\obj\Debug\net6.0\LambdaDemo2.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_03_Lambda\LambdaDemo2\LambdaDemo2\LambdaDemo2\obj\Debug\net6.0\LambdaDemo2.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\08_03_Lambda\LambdaDemo2\LambdaDemo2\LambdaDemo2\obj\Debug\net6.0\LambdaDemo2.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_03_Lambda\LambdaDemo2\LambdaDemo2\LambdaDemo2\obj\Debug\net6.0\LambdaDemo2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_03_Lambda\LambdaDemo2\LambdaDemo2\LambdaDemo2\obj\Debug\net6.0\refint\LambdaDemo2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_03_Lambda\LambdaDemo2\LambdaDemo2\LambdaDemo2\obj\Debug\net6.0\LambdaDemo2.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_03_Lambda\LambdaDemo2\LambdaDemo2\LambdaDemo2\obj\Debug\net6.0\LambdaDemo2.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_03_Lambda\LambdaDemo2\LambdaDemo2\LambdaDemo2\obj\Debug\net6.0\ref\LambdaDemo2.dll

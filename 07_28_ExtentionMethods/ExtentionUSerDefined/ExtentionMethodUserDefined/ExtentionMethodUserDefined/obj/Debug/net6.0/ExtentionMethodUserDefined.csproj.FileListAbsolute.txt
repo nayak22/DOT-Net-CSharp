@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\ExtentionUSerDefined\ExtentionMethodUserDefined\ExtentionMethodUserDefined\bin\Debug\net6.0\ExtentionMethodUserDefined.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\ExtentionUSerDefined\ExtentionMethodUserDefined\ExtentionMethodUserDefined\bin\Debug\net6.0\ExtentionMethodUserDefined.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\ExtentionUSerDefined\ExtentionMethodUserDefined\ExtentionMethodUserDefined\bin\Debug\net6.0\ExtentionMethodUserDefined.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\ExtentionUSerDefined\ExtentionMethodUserDefined\ExtentionMethodUserDefined\bin\Debug\net6.0\ExtentionMethodUserDefined.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\ExtentionUSerDefined\ExtentionMethodUserDefined\ExtentionMethodUserDefined\bin\Debug\net6.0\ExtentionMethodUserDefined.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\ExtentionUSerDefined\ExtentionMethodUserDefined\ExtentionMethodUserDefined\obj\Debug\net6.0\ExtentionMethodUserDefined.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\ExtentionUSerDefined\ExtentionMethodUserDefined\ExtentionMethodUserDefined\obj\Debug\net6.0\ExtentionMethodUserDefined.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\ExtentionUSerDefined\ExtentionMethodUserDefined\ExtentionMethodUserDefined\obj\Debug\net6.0\ExtentionMethodUserDefined.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\ExtentionUSerDefined\ExtentionMethodUserDefined\ExtentionMethodUserDefined\obj\Debug\net6.0\ExtentionMethodUserDefined.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\ExtentionUSerDefined\ExtentionMethodUserDefined\ExtentionMethodUserDefined\obj\Debug\net6.0\ExtentionMethodUserDefined.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\ExtentionUSerDefined\ExtentionMethodUserDefined\ExtentionMethodUserDefined\obj\Debug\net6.0\ExtentionMethodUserDefined.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\ExtentionUSerDefined\ExtentionMethodUserDefined\ExtentionMethodUserDefined\obj\Debug\net6.0\refint\ExtentionMethodUserDefined.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\ExtentionUSerDefined\ExtentionMethodUserDefined\ExtentionMethodUserDefined\obj\Debug\net6.0\ExtentionMethodUserDefined.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\ExtentionUSerDefined\ExtentionMethodUserDefined\ExtentionMethodUserDefined\obj\Debug\net6.0\ExtentionMethodUserDefined.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\ExtentionUSerDefined\ExtentionMethodUserDefined\ExtentionMethodUserDefined\obj\Debug\net6.0\ref\ExtentionMethodUserDefined.dll

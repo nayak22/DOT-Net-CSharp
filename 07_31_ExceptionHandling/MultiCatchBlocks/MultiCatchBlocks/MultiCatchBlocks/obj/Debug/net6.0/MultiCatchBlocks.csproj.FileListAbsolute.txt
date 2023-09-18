@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\MultiCatchBlocks\MultiCatchBlocks\MultiCatchBlocks\bin\Debug\net6.0\MultiCatchBlocks.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\MultiCatchBlocks\MultiCatchBlocks\MultiCatchBlocks\bin\Debug\net6.0\MultiCatchBlocks.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\MultiCatchBlocks\MultiCatchBlocks\MultiCatchBlocks\bin\Debug\net6.0\MultiCatchBlocks.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\MultiCatchBlocks\MultiCatchBlocks\MultiCatchBlocks\bin\Debug\net6.0\MultiCatchBlocks.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\MultiCatchBlocks\MultiCatchBlocks\MultiCatchBlocks\bin\Debug\net6.0\MultiCatchBlocks.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\MultiCatchBlocks\MultiCatchBlocks\MultiCatchBlocks\obj\Debug\net6.0\MultiCatchBlocks.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\MultiCatchBlocks\MultiCatchBlocks\MultiCatchBlocks\obj\Debug\net6.0\MultiCatchBlocks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\MultiCatchBlocks\MultiCatchBlocks\MultiCatchBlocks\obj\Debug\net6.0\MultiCatchBlocks.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\MultiCatchBlocks\MultiCatchBlocks\MultiCatchBlocks\obj\Debug\net6.0\MultiCatchBlocks.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\MultiCatchBlocks\MultiCatchBlocks\MultiCatchBlocks\obj\Debug\net6.0\MultiCatchBlocks.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\MultiCatchBlocks\MultiCatchBlocks\MultiCatchBlocks\obj\Debug\net6.0\MultiCatchBlocks.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\MultiCatchBlocks\MultiCatchBlocks\MultiCatchBlocks\obj\Debug\net6.0\refint\MultiCatchBlocks.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\MultiCatchBlocks\MultiCatchBlocks\MultiCatchBlocks\obj\Debug\net6.0\MultiCatchBlocks.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\MultiCatchBlocks\MultiCatchBlocks\MultiCatchBlocks\obj\Debug\net6.0\MultiCatchBlocks.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_31_ExceptionHandling\MultiCatchBlocks\MultiCatchBlocks\MultiCatchBlocks\obj\Debug\net6.0\ref\MultiCatchBlocks.dll

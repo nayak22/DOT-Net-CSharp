@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\FinalizerAndDestructor\DestructorsDemo\DestructorsDemo\bin\Debug\net6.0\DestructorsDemo.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\FinalizerAndDestructor\DestructorsDemo\DestructorsDemo\bin\Debug\net6.0\DestructorsDemo.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\FinalizerAndDestructor\DestructorsDemo\DestructorsDemo\bin\Debug\net6.0\DestructorsDemo.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\FinalizerAndDestructor\DestructorsDemo\DestructorsDemo\bin\Debug\net6.0\DestructorsDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\FinalizerAndDestructor\DestructorsDemo\DestructorsDemo\bin\Debug\net6.0\DestructorsDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\FinalizerAndDestructor\DestructorsDemo\DestructorsDemo\obj\Debug\net6.0\DestructorsDemo.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\FinalizerAndDestructor\DestructorsDemo\DestructorsDemo\obj\Debug\net6.0\DestructorsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\FinalizerAndDestructor\DestructorsDemo\DestructorsDemo\obj\Debug\net6.0\DestructorsDemo.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\FinalizerAndDestructor\DestructorsDemo\DestructorsDemo\obj\Debug\net6.0\DestructorsDemo.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\FinalizerAndDestructor\DestructorsDemo\DestructorsDemo\obj\Debug\net6.0\DestructorsDemo.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\FinalizerAndDestructor\DestructorsDemo\DestructorsDemo\obj\Debug\net6.0\DestructorsDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\FinalizerAndDestructor\DestructorsDemo\DestructorsDemo\obj\Debug\net6.0\refint\DestructorsDemo.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\FinalizerAndDestructor\DestructorsDemo\DestructorsDemo\obj\Debug\net6.0\DestructorsDemo.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\FinalizerAndDestructor\DestructorsDemo\DestructorsDemo\obj\Debug\net6.0\DestructorsDemo.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_28_ExtentionMethods\FinalizerAndDestructor\DestructorsDemo\DestructorsDemo\obj\Debug\net6.0\ref\DestructorsDemo.dll

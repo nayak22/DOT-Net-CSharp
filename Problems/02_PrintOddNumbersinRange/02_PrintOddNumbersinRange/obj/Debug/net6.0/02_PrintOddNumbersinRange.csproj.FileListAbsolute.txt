@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\02_PrintOddNumbersinRange\02_PrintOddNumbersinRange\bin\Debug\net6.0\02_PrintOddNumbersinRange.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\02_PrintOddNumbersinRange\02_PrintOddNumbersinRange\bin\Debug\net6.0\02_PrintOddNumbersinRange.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\02_PrintOddNumbersinRange\02_PrintOddNumbersinRange\bin\Debug\net6.0\02_PrintOddNumbersinRange.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\02_PrintOddNumbersinRange\02_PrintOddNumbersinRange\bin\Debug\net6.0\02_PrintOddNumbersinRange.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\02_PrintOddNumbersinRange\02_PrintOddNumbersinRange\bin\Debug\net6.0\02_PrintOddNumbersinRange.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\02_PrintOddNumbersinRange\02_PrintOddNumbersinRange\obj\Debug\net6.0\02_PrintOddNumbersinRange.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\02_PrintOddNumbersinRange\02_PrintOddNumbersinRange\obj\Debug\net6.0\02_PrintOddNumbersinRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\02_PrintOddNumbersinRange\02_PrintOddNumbersinRange\obj\Debug\net6.0\02_PrintOddNumbersinRange.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\02_PrintOddNumbersinRange\02_PrintOddNumbersinRange\obj\Debug\net6.0\02_PrintOddNumbersinRange.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\02_PrintOddNumbersinRange\02_PrintOddNumbersinRange\obj\Debug\net6.0\02_PrintOddNumbersinRange.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\02_PrintOddNumbersinRange\02_PrintOddNumbersinRange\obj\Debug\net6.0\02_PrintOddNumbersinRange.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\02_PrintOddNumbersinRange\02_PrintOddNumbersinRange\obj\Debug\net6.0\refint\02_PrintOddNumbersinRange.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\02_PrintOddNumbersinRange\02_PrintOddNumbersinRange\obj\Debug\net6.0\02_PrintOddNumbersinRange.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\02_PrintOddNumbersinRange\02_PrintOddNumbersinRange\obj\Debug\net6.0\02_PrintOddNumbersinRange.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\Problems\02_PrintOddNumbersinRange\02_PrintOddNumbersinRange\obj\Debug\net6.0\ref\02_PrintOddNumbersinRange.dll

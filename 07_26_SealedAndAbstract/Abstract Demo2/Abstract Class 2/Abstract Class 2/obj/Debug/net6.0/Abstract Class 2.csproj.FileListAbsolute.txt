@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\07_26_SealedAndAbstract\Abstract Demo2\Abstract Class 2\Abstract Class 2\bin\Debug\net6.0\Abstract Class 2.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\07_26_SealedAndAbstract\Abstract Demo2\Abstract Class 2\Abstract Class 2\bin\Debug\net6.0\Abstract Class 2.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_26_SealedAndAbstract\Abstract Demo2\Abstract Class 2\Abstract Class 2\bin\Debug\net6.0\Abstract Class 2.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_26_SealedAndAbstract\Abstract Demo2\Abstract Class 2\Abstract Class 2\bin\Debug\net6.0\Abstract Class 2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_26_SealedAndAbstract\Abstract Demo2\Abstract Class 2\Abstract Class 2\bin\Debug\net6.0\Abstract Class 2.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_26_SealedAndAbstract\Abstract Demo2\Abstract Class 2\Abstract Class 2\obj\Debug\net6.0\Abstract Class 2.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_26_SealedAndAbstract\Abstract Demo2\Abstract Class 2\Abstract Class 2\obj\Debug\net6.0\Abstract Class 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\07_26_SealedAndAbstract\Abstract Demo2\Abstract Class 2\Abstract Class 2\obj\Debug\net6.0\Abstract Class 2.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_26_SealedAndAbstract\Abstract Demo2\Abstract Class 2\Abstract Class 2\obj\Debug\net6.0\Abstract Class 2.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\07_26_SealedAndAbstract\Abstract Demo2\Abstract Class 2\Abstract Class 2\obj\Debug\net6.0\Abstract Class 2.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_26_SealedAndAbstract\Abstract Demo2\Abstract Class 2\Abstract Class 2\obj\Debug\net6.0\Abstract Class 2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_26_SealedAndAbstract\Abstract Demo2\Abstract Class 2\Abstract Class 2\obj\Debug\net6.0\refint\Abstract Class 2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_26_SealedAndAbstract\Abstract Demo2\Abstract Class 2\Abstract Class 2\obj\Debug\net6.0\Abstract Class 2.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_26_SealedAndAbstract\Abstract Demo2\Abstract Class 2\Abstract Class 2\obj\Debug\net6.0\Abstract Class 2.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_26_SealedAndAbstract\Abstract Demo2\Abstract Class 2\Abstract Class 2\obj\Debug\net6.0\ref\Abstract Class 2.dll

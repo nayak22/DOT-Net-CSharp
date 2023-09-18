@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\UserDefinedException\UserDefinedException\UserDefinedException\bin\Debug\net6.0\UserDefinedException.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\UserDefinedException\UserDefinedException\UserDefinedException\bin\Debug\net6.0\UserDefinedException.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\UserDefinedException\UserDefinedException\UserDefinedException\bin\Debug\net6.0\UserDefinedException.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\UserDefinedException\UserDefinedException\UserDefinedException\bin\Debug\net6.0\UserDefinedException.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\UserDefinedException\UserDefinedException\UserDefinedException\bin\Debug\net6.0\UserDefinedException.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\UserDefinedException\UserDefinedException\UserDefinedException\obj\Debug\net6.0\UserDefinedException.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\UserDefinedException\UserDefinedException\UserDefinedException\obj\Debug\net6.0\UserDefinedException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\UserDefinedException\UserDefinedException\UserDefinedException\obj\Debug\net6.0\UserDefinedException.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\UserDefinedException\UserDefinedException\UserDefinedException\obj\Debug\net6.0\UserDefinedException.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\UserDefinedException\UserDefinedException\UserDefinedException\obj\Debug\net6.0\UserDefinedException.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\UserDefinedException\UserDefinedException\UserDefinedException\obj\Debug\net6.0\UserDefinedException.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\UserDefinedException\UserDefinedException\UserDefinedException\obj\Debug\net6.0\refint\UserDefinedException.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\UserDefinedException\UserDefinedException\UserDefinedException\obj\Debug\net6.0\UserDefinedException.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\UserDefinedException\UserDefinedException\UserDefinedException\obj\Debug\net6.0\UserDefinedException.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\08_01_NestedAndUserDefined\UserDefinedException\UserDefinedException\UserDefinedException\obj\Debug\net6.0\ref\UserDefinedException.dll

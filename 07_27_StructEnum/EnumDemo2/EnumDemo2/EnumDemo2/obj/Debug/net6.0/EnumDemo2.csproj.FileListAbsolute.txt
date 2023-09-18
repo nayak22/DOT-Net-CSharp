@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\EnumDemo2\EnumDemo2\EnumDemo2\bin\Debug\net6.0\EnumDemo2.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\EnumDemo2\EnumDemo2\EnumDemo2\bin\Debug\net6.0\EnumDemo2.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\EnumDemo2\EnumDemo2\EnumDemo2\bin\Debug\net6.0\EnumDemo2.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\EnumDemo2\EnumDemo2\EnumDemo2\bin\Debug\net6.0\EnumDemo2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\EnumDemo2\EnumDemo2\EnumDemo2\bin\Debug\net6.0\EnumDemo2.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\EnumDemo2\EnumDemo2\EnumDemo2\obj\Debug\net6.0\EnumDemo2.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\EnumDemo2\EnumDemo2\EnumDemo2\obj\Debug\net6.0\EnumDemo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\EnumDemo2\EnumDemo2\EnumDemo2\obj\Debug\net6.0\EnumDemo2.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\EnumDemo2\EnumDemo2\EnumDemo2\obj\Debug\net6.0\EnumDemo2.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\EnumDemo2\EnumDemo2\EnumDemo2\obj\Debug\net6.0\EnumDemo2.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\EnumDemo2\EnumDemo2\EnumDemo2\obj\Debug\net6.0\EnumDemo2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\EnumDemo2\EnumDemo2\EnumDemo2\obj\Debug\net6.0\refint\EnumDemo2.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\EnumDemo2\EnumDemo2\EnumDemo2\obj\Debug\net6.0\EnumDemo2.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\EnumDemo2\EnumDemo2\EnumDemo2\obj\Debug\net6.0\EnumDemo2.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\EnumDemo2\EnumDemo2\EnumDemo2\obj\Debug\net6.0\ref\EnumDemo2.dll

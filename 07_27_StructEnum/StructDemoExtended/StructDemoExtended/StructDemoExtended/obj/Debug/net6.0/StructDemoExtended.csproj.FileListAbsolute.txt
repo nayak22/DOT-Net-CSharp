@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructDemoExtended\StructDemoExtended\StructDemoExtended\bin\Debug\net6.0\StructDemoExtended.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructDemoExtended\StructDemoExtended\StructDemoExtended\bin\Debug\net6.0\StructDemoExtended.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructDemoExtended\StructDemoExtended\StructDemoExtended\bin\Debug\net6.0\StructDemoExtended.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructDemoExtended\StructDemoExtended\StructDemoExtended\bin\Debug\net6.0\StructDemoExtended.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructDemoExtended\StructDemoExtended\StructDemoExtended\bin\Debug\net6.0\StructDemoExtended.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructDemoExtended\StructDemoExtended\StructDemoExtended\obj\Debug\net6.0\StructDemoExtended.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructDemoExtended\StructDemoExtended\StructDemoExtended\obj\Debug\net6.0\StructDemoExtended.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructDemoExtended\StructDemoExtended\StructDemoExtended\obj\Debug\net6.0\StructDemoExtended.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructDemoExtended\StructDemoExtended\StructDemoExtended\obj\Debug\net6.0\StructDemoExtended.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructDemoExtended\StructDemoExtended\StructDemoExtended\obj\Debug\net6.0\StructDemoExtended.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructDemoExtended\StructDemoExtended\StructDemoExtended\obj\Debug\net6.0\StructDemoExtended.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructDemoExtended\StructDemoExtended\StructDemoExtended\obj\Debug\net6.0\refint\StructDemoExtended.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructDemoExtended\StructDemoExtended\StructDemoExtended\obj\Debug\net6.0\StructDemoExtended.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructDemoExtended\StructDemoExtended\StructDemoExtended\obj\Debug\net6.0\StructDemoExtended.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\27_StructEnum\StructDemoExtended\StructDemoExtended\StructDemoExtended\obj\Debug\net6.0\ref\StructDemoExtended.dll

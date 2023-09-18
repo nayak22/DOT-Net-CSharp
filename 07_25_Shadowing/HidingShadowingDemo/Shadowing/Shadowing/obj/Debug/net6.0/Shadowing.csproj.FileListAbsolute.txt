@@ -1,0 +1,15 @@
+D:\Samrath\C#.net\DOT-Net-CSharp\07_25_Shadowing\HidingShadowingDemo\Shadowing\Shadowing\bin\Debug\net6.0\Shadowing.exe
+D:\Samrath\C#.net\DOT-Net-CSharp\07_25_Shadowing\HidingShadowingDemo\Shadowing\Shadowing\bin\Debug\net6.0\Shadowing.deps.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_25_Shadowing\HidingShadowingDemo\Shadowing\Shadowing\bin\Debug\net6.0\Shadowing.runtimeconfig.json
+D:\Samrath\C#.net\DOT-Net-CSharp\07_25_Shadowing\HidingShadowingDemo\Shadowing\Shadowing\bin\Debug\net6.0\Shadowing.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_25_Shadowing\HidingShadowingDemo\Shadowing\Shadowing\bin\Debug\net6.0\Shadowing.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_25_Shadowing\HidingShadowingDemo\Shadowing\Shadowing\obj\Debug\net6.0\Shadowing.csproj.AssemblyReference.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_25_Shadowing\HidingShadowingDemo\Shadowing\Shadowing\obj\Debug\net6.0\Shadowing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samrath\C#.net\DOT-Net-CSharp\07_25_Shadowing\HidingShadowingDemo\Shadowing\Shadowing\obj\Debug\net6.0\Shadowing.AssemblyInfoInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_25_Shadowing\HidingShadowingDemo\Shadowing\Shadowing\obj\Debug\net6.0\Shadowing.AssemblyInfo.cs
+D:\Samrath\C#.net\DOT-Net-CSharp\07_25_Shadowing\HidingShadowingDemo\Shadowing\Shadowing\obj\Debug\net6.0\Shadowing.csproj.CoreCompileInputs.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_25_Shadowing\HidingShadowingDemo\Shadowing\Shadowing\obj\Debug\net6.0\Shadowing.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_25_Shadowing\HidingShadowingDemo\Shadowing\Shadowing\obj\Debug\net6.0\refint\Shadowing.dll
+D:\Samrath\C#.net\DOT-Net-CSharp\07_25_Shadowing\HidingShadowingDemo\Shadowing\Shadowing\obj\Debug\net6.0\Shadowing.pdb
+D:\Samrath\C#.net\DOT-Net-CSharp\07_25_Shadowing\HidingShadowingDemo\Shadowing\Shadowing\obj\Debug\net6.0\Shadowing.genruntimeconfig.cache
+D:\Samrath\C#.net\DOT-Net-CSharp\07_25_Shadowing\HidingShadowingDemo\Shadowing\Shadowing\obj\Debug\net6.0\ref\Shadowing.dll
